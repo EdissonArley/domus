@@ -1,4 +1,4 @@
-package domus.challenge;
+package com.domus.challenge;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

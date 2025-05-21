@@ -1,9 +1,9 @@
-package domus.challenge;
+package com.domus.challenge;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootTest
+@SpringBootTest()
 class ChallengeApplicationTests {
 
 	@Test
